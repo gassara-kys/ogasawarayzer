@@ -1,1 +1,5 @@
 # ogasawarayzer
+
+## required 
+
+- docker
