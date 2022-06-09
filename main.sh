@@ -1,6 +1,6 @@
 #!/bin/bash
 
-RESULT_FILE_PATH="/tmp/result.json"
+RESULT_FILE_PATH="./result.json"
 INPUT_FILE_PATH="./url.txt"
 
 function init () {
